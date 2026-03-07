@@ -1,16 +1,16 @@
 ## Hi there 👋
+# I'm Harshita Guduru
 
-<!--
-**guduruharshita/guduruharshita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Software Developer building scalable web applications and data-driven systems using modern web technologies and machine learning.
 
-Here are some ideas to get you started:
+🎓 Currently pursuing **M.S. in Computer Science at Lawrence Technological University** with strong foundations in software engineering, backend architecture, and ML systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤔 I’m focused on building scalable web platforms, developing machine learning pipelines, and exploring decentralized authentication systems using blockchain technologies.
+
+💬 Ask me about React.js, Spring Boot, REST API design, machine learning pipelines, or full-stack application architecture.
+
+📫 How to reach me:
+
+Email: guduruharshita2001@gmail.com  
+LinkedIn: linkedin.com  
+GitHub: github.com
